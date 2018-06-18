@@ -2,7 +2,10 @@
   "name": "pos-v1-with-react",
   "version": "0.1.0",
   "private": true,
+  "homepage": ".",
   "dependencies": {
+    "jQuery": "^1.7.4",
+    "jquery": "^3.3.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts": "1.1.1"
